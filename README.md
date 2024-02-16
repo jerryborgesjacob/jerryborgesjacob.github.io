@@ -1,1 +1,2 @@
-# small-website-http5110
+# Repo for Small Website Assignment - HTTP 5110
+
